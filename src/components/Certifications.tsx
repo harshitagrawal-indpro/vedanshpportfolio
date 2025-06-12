@@ -41,6 +41,14 @@ const Certifications = () => {
       date: 'May 5, 2025',
       image: '/lovable-uploads/adf1098e-d0d8-4a74-b086-ef9de269667b.png',
       category: 'Digital Marketing'
+    },
+    {
+      title: 'Certificate of Training in Digital Marketing',
+      provider: 'Bizgurukul',
+      description: 'Digital Marketing',
+      date: 'June 12, 2025',
+      image: 'https://i.ibb.co/NgYyt9P8/Whats-App-Image-2025-06-12-at-10-07-06-PM.jpg',
+      category: 'Digital Marketing'
     }
   ];
 
