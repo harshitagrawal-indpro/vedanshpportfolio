@@ -3,7 +3,7 @@ const About = () => {
     { icon: '👥', text: 'HR Manager' },
     { icon: '🎯', text: 'Digital Marketer' },
     { icon: '🤝', text: 'Team Leader' },
-    { icon: '🎓', text: 'MBA Student' }
+    { icon: '🎓', text: 'BBA Student' }
   ];
 
   return (
@@ -18,7 +18,7 @@ const About = () => {
             <p className="text-lg mb-12 text-muted-foreground leading-relaxed">
               Vedansh is a purpose-driven HR and strategy enthusiast with experience in both 
               traditional HR and AI-powered marketing. He has worked with GAOTek Inc., led teams, 
-              and contributed to digital branding. He is currently pursuing an MBA from Ramaiah 
+              and contributed to digital branding. He is currently pursuing an BBA from Ramaiah 
               Institute of Applied Sciences and is a proud core member of Progo.in.
             </p>
             
