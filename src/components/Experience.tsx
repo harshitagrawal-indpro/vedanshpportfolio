@@ -5,14 +5,14 @@ const Experience = () => {
       position: 'HR Manager',
       period: 'Jan 2025 - May 2025',
       description: 'Leading HR operations and strategic initiatives',
-      type: 'current'
+      type: 'Completed'
     },
     {
       company: 'GAOTek Inc.',
       position: 'Assistant Team Lead',
       period: 'Feb 2025 - May 2025',
       description: 'Managing team operations and coordinating projects',
-      type: 'current'
+      type: 'Completed'
     },
     {
       company: 'GAOTek Inc.',
