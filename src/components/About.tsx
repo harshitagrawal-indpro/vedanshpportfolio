@@ -1,4 +1,3 @@
-
 const About = () => {
   const badges = [
     { icon: '👥', text: 'HR Manager' },

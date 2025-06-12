@@ -1,4 +1,3 @@
-
 const Certifications = () => {
   const certifications = [
     {

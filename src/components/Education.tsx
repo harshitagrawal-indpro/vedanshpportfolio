@@ -1,4 +1,3 @@
-
 const Education = () => {
   const education = [
     {
@@ -6,14 +5,16 @@ const Education = () => {
       institution: 'Ramaiah Institute of Applied Sciences',
       period: '2024 - 2027',
       status: 'In Progress',
-      description: 'Specializing in strategic management and organizational leadership'
+      description: 'Specializing in strategic management and organizational leadership',
+      specialization: undefined
     },
     {
       degree: 'Bachelor of Business Administration',
       institution: 'Previous Institution',
       specialization: 'Human Resource Management',
       status: 'Completed',
-      description: 'Specialized in HR operations, talent management, and organizational behavior'
+      description: 'Specialized in HR operations, talent management, and organizational behavior',
+      period: undefined
     }
   ];
 

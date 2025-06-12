@@ -1,4 +1,3 @@
-
 import ScrollProgress from '../components/ScrollProgress';
 import Navigation from '../components/Navigation';
 import Hero from '../components/Hero';

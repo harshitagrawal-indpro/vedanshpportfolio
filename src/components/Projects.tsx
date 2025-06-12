@@ -1,4 +1,3 @@
-
 const Projects = () => {
   return (
     <section id="projects" className="py-20">

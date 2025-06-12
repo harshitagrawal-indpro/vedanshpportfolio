@@ -1,4 +1,3 @@
-
 const Skills = () => {
   const skills = [
     { name: 'HR Operations', icon: '👥', level: 90 },

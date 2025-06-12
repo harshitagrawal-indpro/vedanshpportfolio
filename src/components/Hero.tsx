@@ -1,4 +1,3 @@
-
 const Hero = () => {
   const scrollToContact = () => {
     const element = document.getElementById('contact');
@@ -18,6 +17,18 @@ const Hero = () => {
 
       <div className="container mx-auto px-4 text-center relative z-10">
         <div className="animate-fade-in">
+          {/* Profile Image */}
+          <div className="mb-8 flex justify-center">
+            <div className="relative">
+              <img
+                src="https://i.ibb.co/YTQk2KgP/image.png"
+                alt="Vedansh Singh"
+                className="w-48 h-48 md:w-64 md:h-64 rounded-full object-cover border-4 border-accent/30 shadow-2xl hover:scale-105 transition-all duration-300 animate-float"
+              />
+              <div className="absolute inset-0 rounded-full bg-gradient-to-tr from-accent/20 to-golden/20 opacity-50"></div>
+            </div>
+          </div>
+
           <h1 className="text-5xl md:text-7xl font-bold mb-6 gradient-text animate-float">
             Vedansh Singh
           </h1>
