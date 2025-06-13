@@ -51,7 +51,7 @@ const Certifications = () => {
       category: 'Digital Marketing'
     }
   ];
-// U CAN ADD CODE HERE 
+// U CAN ADD CODE HERE AND HERE IS IT 
   return (
     <section id="certifications" className="py-20 bg-muted/30">
       <div className="container mx-auto px-4">
